@@ -1,0 +1,19 @@
+.mid{
+  border: 1px solid black;
+  margin: 25px;
+}
+.gameboard{
+  padding: 25px;
+
+}
+
+.coltn{
+  background-image: url("/img/wood.jpg");
+  height: 60px;
+  width: 60px;
+}
+.colbk{
+  background-image: url("/img/darkwood.jpg");
+  height: 60px;
+  width: 60px;
+}
